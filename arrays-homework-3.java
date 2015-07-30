@@ -1,6 +1,6 @@
 package softuni1;
 
-public class JavaBookArraysHomeWork4 {
+public class arrays-homework-3 {
 
 	public static void main(String[] args) {
 		// Show best length and start position of same int in array
